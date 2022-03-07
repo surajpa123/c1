@@ -1,7 +1,23 @@
 .App {
   text-align: center;
 }
+.main{
+   margin: auto;
+   border: 1px solid red;
+   width: 60%;
+   height: 300px;
+   align-items: center;
+   text-align: center;
+   
+}
+.main > div{
+  
+  margin-top: 2%;
+  margin-right: 2%;
+  width: 50%;
+  margin-left: 25%;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
